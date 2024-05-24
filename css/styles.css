@@ -107,7 +107,8 @@ ul {
   background-color: #2e2f42;
 }
 .order_block_container {
-  padding: 188px 316px;
+  padding: 188px 0px;
+  max-width: 496px;
 }
 .order_block_title {
   font-size: 56px;
@@ -131,6 +132,7 @@ ul {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  min-width: 169px;
 }
 .order_block_button:hover {
   background-color: #404bbf;
